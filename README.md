@@ -1,6 +1,5 @@
 # Bitcoin-wallet-
 Bitcoin wallet codes 
-Creating a website that allows for real Bitcoin transfers can be a complex task. However, I can provide you with some guidance on how to get started.
 
 First, you will need to create a backend server that handles the Bitcoin transactions. You can use the BitcoinJS library to interact with the Bitcoin network. Here are the steps you can follow:
 
